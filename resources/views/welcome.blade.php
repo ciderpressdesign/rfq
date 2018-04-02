@@ -18,7 +18,7 @@
         Panda Games
         <router-view/>
     </div>
-    <script src="http://panda.test/js/app.js"></script>
+    <script src="/js/app.js"></script>
     </body>
 </html>
 {{--<script src="/js/app.js"></script>--}}
