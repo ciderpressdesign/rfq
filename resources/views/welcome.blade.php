@@ -15,7 +15,6 @@
     </head>
     <body>
     <div id='root'>
-        Panda Games
         <router-view/>
     </div>
     <script src="/js/app.js"></script>
